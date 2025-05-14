@@ -1,5 +1,5 @@
 ## Requirements
-+ Node.js: Ensure Node.js is installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
++ Node.js
 + playwright: ^1.52.0
 + xml2js: ^0.6.2
 ### Place in the working directory (same folder as extract_zoomify.js, run_dezoomify.js, etc.)
